@@ -4,7 +4,7 @@ A SPA that uses React for the client and .Net core for the server.
 
 ## Getting Started
 
-### Running the client
+### Running the client (Requests the server on http://localhost:5000)
 
 ```
 cd Event.Client

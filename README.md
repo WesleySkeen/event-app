@@ -22,9 +22,9 @@ npm start
 
 
 ## Whats left to do
-1. UI
-  1. Improve and extend the data that is displayed on the UI
-  2. Add paginatation (Events are currently limited to 100)
+- UI
+  - Improve and extend the data that is displayed on the UI
+  - Add paginatation (Events are currently limited to 100)
 
 
 

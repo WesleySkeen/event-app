@@ -6,6 +6,7 @@ A SPA that uses React for the client and .Net core for the server.
 
 ### Requirements 
 .NET Core 3 (If this is an issue, I can downgrade to a suitable framework)
+An IDE that supports .NET Core 3
 
 ### Running the client (Requests the server on http://localhost:5000)
 
